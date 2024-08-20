@@ -1,0 +1,31 @@
+body{
+    /*background-image: url(https://images.pexels.com/photos/1133957/pexels-photo-1133957.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);*/
+background-size: cover;
+}
+#image{
+    width: 50%;
+    height: auto;
+}
+.grp1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border:  2px dotted red;
+} 
+  table{
+    border: 2px solid blue;
+    border-bottom: 2px solid red;
+    border-collapse: collapse;
+    margin:5% 30% 5% 40% ;
+  }  
+  table tr{
+    border-bottom: 2px solid green;
+  }
+  table td{
+    border-right: 3px solid brown;
+    padding: 8px 11px 8px 11px;
+  }
+.hpp{
+    border: 2px solid blue;
+}
+    .cpp{
+        border: 2px solid violet;
+    }
